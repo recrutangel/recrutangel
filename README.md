@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @recrutangel
 - 👀 I’m interested in recruiting energized people to join Twilio
-- 🌱 I’m currently learning how to be a best recruiter
+- 🌱 I’m currently learning some coding but Im not that expert!
 - 💞️ I’m looking to collaborate on helping you to perform a better interview
 - 📫 How to reach me [...](https://www.linkedin.com/in/angel-ohara/)
 
